@@ -1,8 +1,8 @@
 # jsBin-Clone
 
-JS Bin is an open source collaborative web development debugging tool.
+JS Bin Clone is a web development debugging tool.
 
-## What can JS Bin do?
+## What can JS Bin Clone do?
 
 * Write code and have it both save in real-time, but also render a full preview in real-time
-* Help debug other people's JavaScript, HTML or CSS
+* Debug JavaScript, HTML or CSS effectively
