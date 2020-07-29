@@ -1,8 +1,7 @@
-# jsBin-Clone
+# FrontEnd-Dojo
+FrontEnd-Dojo is a beginner friendly web development tool
 
-JS Bin Clone is a web development debugging tool.
-
-## What can JS Bin Clone do?
+## What can FrontEnd-Dojo do?
 
 * Write code and get a full preview in real-time
 * Debug JavaScript, HTML or CSS effectively
